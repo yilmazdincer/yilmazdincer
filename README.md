@@ -1,8 +1,8 @@
 <img src= "https://media.giphy.com/media/26gsvcgO9EaGWFXqM/giphy.gif" align="right" width="400" height="350"> <br><br>
 # 💫 About Me:
-I am currently work on XSOAR and Automation.<br>I am looking to collabrate on Math Project, Python,<br> Prompt Engineering, AI and also Cyber Securtiy.<br>I am currently learnıng AI wıth Math basedç
+I am currently work on XSOAR and Automation.<br>I am looking to collabrate on Math Project, Python,<br> Prompt Engineering, AI and also Cyber Securtiy.<br>I am currently learning AI with Math based.
 
-<font color="blue"> Never be the person they want! </font>
+<p style="color:red"> Never be the person they want! </p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ylmzdncr) 
 
