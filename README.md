@@ -1,6 +1,6 @@
 <img src= "https://media.giphy.com/media/26gsvcgO9EaGWFXqM/giphy.gif" align="right" width="400" height="350"> <br><br>
 # 💫 About Me:
-I am currently work on XSOAR and Automation.<br>I am looking to collabrate on Math Project, Python,<br> Prompt Engineering, AI and also Cyber Securtiy.<br>I am currently learning AI with Math based.
+I am currently work on XSOAR and Automation.<br>I am looking to collabrate on Math Project, Python,<br> AI and also Cyber Securtiy.<br>I am currently learning AI with Math based.
 
 <font color=blue> Never be the person they want! </font>
 ## 🌐 Socials:
